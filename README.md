@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
