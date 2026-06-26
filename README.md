@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0238-product-of-array-except-self) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
