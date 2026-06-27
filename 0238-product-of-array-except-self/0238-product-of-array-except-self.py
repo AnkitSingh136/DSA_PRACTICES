@@ -16,7 +16,6 @@ class Solution(object):
             sp*=nums[i]
             sufix_p.append(sp)
         sufix_p.reverse()
-        print(prefix_p,sufix_p)
         result=[]
         for i in range(len(nums)):
             result.append(prefix_p[i]*sufix_p[i])
