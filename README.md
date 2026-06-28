@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0242-valid-anagram) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
