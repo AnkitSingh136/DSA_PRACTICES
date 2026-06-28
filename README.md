@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
@@ -79,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
