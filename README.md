@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
