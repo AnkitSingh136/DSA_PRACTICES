@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -62,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
