@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
