@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
@@ -139,4 +143,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
