@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0349-intersection-of-two-arrays) |
+| [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,10 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -158,5 +163,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
