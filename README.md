@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0347-top-k-frequent-elements) |
@@ -67,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
