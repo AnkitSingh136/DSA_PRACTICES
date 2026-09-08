@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
