@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3903-smallest-stable-index-i) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0877-stone-game) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
