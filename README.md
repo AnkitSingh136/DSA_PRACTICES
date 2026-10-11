@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2029-stone-game-ix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/0733-flood-fill) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/AnkitSingh136/DSA_PRACTICES/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
